@@ -1,9 +1,6 @@
 #-*- coding:utf-8 -*-
 
-"""
-大体思路：信号强的相关联
-@author: lmy 396370321
-"""
+
 
 import pandas as pd
 from collections import defaultdict

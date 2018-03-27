@@ -2,7 +2,6 @@
 """
 Created on Sat Oct 28 16:16:39 2017
 
-@author: 麦芽的香气
 """
 import pandas as pd
 import numpy as np

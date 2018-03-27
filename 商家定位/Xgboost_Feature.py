@@ -3,7 +3,7 @@
 """
 Created on Thu Nov  2 18:42:59 2017
 
-@author: lytforgood
+
 """
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
